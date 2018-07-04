@@ -23,5 +23,6 @@ nodejs yarn build-essential libpq-dev imagemagick git-all nano
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+    * Codeship+Heroku
 
 * ...
